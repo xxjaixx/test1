@@ -1,1 +1,1 @@
-print("angel mig duterte")
+print("angel mig duterte fucoy")
