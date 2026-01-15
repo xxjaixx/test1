@@ -1,1 +1,1 @@
-print("calc")
+print("calculator")
